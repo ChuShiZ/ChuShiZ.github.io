@@ -108,11 +108,11 @@ const Actions = [{
   {
     lifeTime: 170,
     texts: [{
-        text: '冰',
+        text: '露',
         hsla: color2
       },
       {
-        text: '冰',
+        text: '露',
         hsla: color2
       },
     ]

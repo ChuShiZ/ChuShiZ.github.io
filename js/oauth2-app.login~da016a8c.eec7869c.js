@@ -1,0 +1,1 @@
+(window["webpackJsonp_joinsoft-v9"]=window["webpackJsonp_joinsoft-v9"]||[]).push([["oauth2-app.login~da016a8c"],{e017:function(a,n,e){"use strict";e.r(n);var t=function(){var a=this,n=a.$createElement,e=a._self._c||n;return e("div",[e("router-view")],1)},o=[],i={name:"BlankLayout"},u=i,r=e("2877"),s=Object(r["a"])(u,t,o,!1,null,"68a5a2a6",null);n["default"]=s.exports}}]);

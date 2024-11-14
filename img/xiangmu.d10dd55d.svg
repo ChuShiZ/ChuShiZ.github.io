@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 27</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#9BC9FF" offset="0%"></stop>
+            <stop stop-color="#6298FE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M18.615625,1.963625 L15.596875,1.963625 L15.596875,1.00625 C15.596875,0.45051347 15.1463615,0 14.590625,0 C14.0348885,0 13.584375,0.45051347 13.584375,1.00625 L13.584375,1.963625 L6.540625,1.963625 L6.540625,1.00625 C6.540625,0.45051347 6.09011153,0 5.534375,0 C4.97863847,0 4.528125,0.45051347 4.528125,1.00625 L4.528125,1.963625 L1.509375,1.963625 C0.696756427,1.94671945 0.0227309113,2.58864851 0,3.401125 L0,18.7349375 C0.0227309113,19.547414 0.696756427,20.1893431 1.509375,20.1724375 L18.615625,20.1724375 C19.4282436,20.1893431 20.1022691,19.547414 20.125,18.7349375 L20.125,3.401125 C20.1022691,2.58864851 19.4282436,1.94671945 18.615625,1.963625 L18.615625,1.963625 Z M12.075,13.463625 L4.025,13.463625 C3.67391975,13.4771197 3.34357575,13.2975148 3.16402396,12.9955204 C2.98447216,12.6935261 2.98447216,12.317514 3.16402396,12.0155196 C3.34357575,11.7135252 3.67391975,11.5339203 4.025,11.547415 L12.075,11.547415 C12.4260803,11.5339203 12.7564242,11.7135252 12.935976,12.0155196 C13.1155278,12.317514 13.1155278,12.6935261 12.935976,12.9955204 C12.7564242,13.2975148 12.4260803,13.4771197 12.075,13.463625 Z M16.1,8.67248242 L4.025,8.67248242 C3.67391975,8.68597715 3.34357575,8.50637223 3.16402396,8.20437786 C2.98447216,7.90238348 2.98447216,7.5263714 3.16402396,7.22437703 C3.34357575,6.92238265 3.67391975,6.74277773 4.025,6.75627246 L16.1,6.75627246 C16.4511457,6.7426684 16.7815995,6.92224633 16.9612174,7.22428235 C17.1408354,7.52631838 17.1408354,7.90241404 16.9612174,8.20445007 C16.7815995,8.50648609 16.4511457,8.68606403 16.1,8.67245996 L16.1,8.67248242 Z" id="path-2"></path>
+        <filter x="-34.8%" y="-24.8%" width="169.6%" height="169.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.30626721   0 0 0 0 0.538270054   0 0 0 0 0.893376447  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-29.8%" y="-19.8%" width="159.6%" height="159.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.501960784   0 0 0 0 0.698039216   0 0 0 0 1  0 0 0 0.462444172 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6月13右侧" transform="translate(-249.000000, -274.000000)">
+            <g id="编组-16" transform="translate(239.000000, 274.000000)">
+                <g id="编组-27" transform="translate(10.000000, 0.000000)">
+                    <g id="编组-22">
+                        <circle id="椭圆形" fill="url(#linearGradient-1)" cx="23" cy="23" r="23"></circle>
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="11.5" y="12.1764706" width="23" height="23"></rect>
+                    </g>
+                    <g id="项目" transform="translate(13.437500, 12.738875)" fill-rule="nonzero">
+                        <g id="形状">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            <use fill="#FFFFFF" xlink:href="#path-2"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

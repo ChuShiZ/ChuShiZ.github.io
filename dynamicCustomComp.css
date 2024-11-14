@@ -1,0 +1,49 @@
+/* 大屏日期选择器组件样式 */
+.superDateRangePicker {
+  border: 1px solid #568aab;
+}
+.superDateRangePicker > .ant-calendar.ant-calendar-range.ant-calendar-range-with-ranges.ant-calendar-picker-container-content {
+  background-color: rgba(29, 42, 86);
+}
+.superDateRangePicker > .ant-calendar.ant-calendar-range.ant-calendar-range-with-ranges.ant-calendar-picker-container-content input.ant-calendar-input {
+  background-color: transparent !important;
+  color: #fff!important;
+}
+.superDateRangePicker > .ant-calendar.ant-calendar-range.ant-calendar-range-with-ranges.ant-calendar-picker-container-content input.ant-calendar-input::placeholder {
+  color: rgba(255,255,255, 0.8);
+}
+.superDateRangePicker  .ant-calendar-cell > .ant-calendar-date,
+.superDateRangePicker th.ant-calendar-column-header > .ant-calendar-column-header-inner,
+.superDateRangePicker .ant-calendar-header .ant-calendar-year-select,.superDateRangePicker .ant-calendar-header .ant-calendar-month-select{
+  color: #fff;
+}
+.superDateRangePicker .ant-calendar-last-month-cell .ant-calendar-date,.superDateRangePicker .ant-calendar-next-month-btn-day .ant-calendar-date {
+  color: rgba(255,255,255,0.6);
+}
+.superDateRangePicker .ant-calendar-next-month-btn-day .ant-calendar-date:hover, .superDateRangePicker .ant-calendar-date:hover {
+  background-color: rgba(24, 144, 255, 0.4);
+  color: #fff;
+}
+.superDateRangePicker .ant-calendar-range .ant-calendar-in-range-cell::before {
+  background-color: rgba(24, 144, 255, 0.4);
+}
+
+
+.superTreeSelectOptions.ant-select-dropdown {
+  background-color:rgba(29, 42, 86)
+}
+.superTreeSelectOptions .ant-select-tree li .ant-select-tree-node-content-wrapper {
+  color: #fff;
+}
+.superTreeSelectOptions .ant-select-tree li .ant-select-tree-node-content-wrapper:hover,
+.superTreeSelectOptions .ant-select-tree li .ant-select-tree-node-content-wrapper.ant-select-tree-node-selected {
+  background-color: rgba(24, 144, 255, 0.4);
+}
+.superTreeSelectOptions .ant-select-tree li span.ant-select-tree-switcher {
+  color: #fff;
+}
+
+.superSelectOptions .ant-select-dropdown-menu-item-active:not(.ant-select-dropdown-menu-item-disabled), .superSelectOptions .ant-select-dropdown-menu-item-selected {
+  background-color: rgba(24, 144, 255, 0.4) !important;
+  color: #fff;
+}

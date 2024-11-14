@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="87px" height="26px" viewBox="0 0 87 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 18</title>
+    <defs>
+        <polygon id="path-1" points="1.59996345 4.70068027 4.76624133 1.42857143 80.0784224 1.42857143 83.2447003 4.95238095 83.2447003 19.047619 80.0784224 22.5714286 4.76624133 22.5714286 1.59996345 19.047619"></polygon>
+        <filter x="-5.5%" y="-21.3%" width="111.0%" height="142.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="4.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.180440257   0 0 0 0 0.2962671   0 0 0 0 0.421003701  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="综合业务监管可视化平台" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-496.000000, -810.000000)">
+            <g id="编组-18" transform="translate(497.000000, 811.000000)">
+                <g id="编组-17">
+                    <path d="M81.5856719,0.25 L84.75,4.08973929 L84.75,19.9102607 L81.5856719,23.75 L3.41432808,23.75 L0.25,19.9102607 L0.25,3.80922384 L3.40878272,0.25 L81.5856719,0.25 Z" id="矩形" stroke="#4B7895" stroke-width="0.5"></path>
+                    <polyline id="形状" stroke="#568AAB" stroke-width="0.858" points="0 8.86216518 0 3.71428571 3.99445983 0 9.42713759 0"></polyline>
+                    <polyline id="形状备份-2" stroke="#568AAB" stroke-width="0.858" transform="translate(4.713569, 19.568917) scale(1, -1) translate(-4.713569, -19.568917) " points="0 24 0 18.8521205 3.99445983 15.1378348 9.42713759 15.1378348"></polyline>
+                    <polyline id="形状备份" stroke="#568AAB" stroke-width="0.858" transform="translate(80.271902, 4.431083) scale(-1, 1) translate(-80.271902, -4.431083) " points="75.5583333 8.86216518 75.5583333 3.71428571 79.5527932 0 84.9854709 0"></polyline>
+                    <polyline id="形状备份-3" stroke="#568AAB" stroke-width="0.858" transform="translate(80.271902, 19.568917) scale(-1, -1) translate(-80.271902, -19.568917) " points="75.5583333 24 75.5583333 18.8521205 79.5527932 15.1378348 84.9854709 15.1378348"></polyline>
+                    <g id="矩形">
+                        <use fill-opacity="0.1" fill="#46D0E5" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+                <g id="-下拉箭头小" transform="translate(70.000000, 8.000000)" fill-rule="nonzero">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="10" height="10"></rect>
+                    <path d="M4.7175,6.9775 L5.01208333,7.2725 L9.07416667,3.21166667 C9.23563674,3.04863015 9.23563674,2.78595319 9.07416667,2.62291667 C8.99624917,2.54444098 8.89025734,2.50027198 8.77966998,2.50019377 C8.66908262,2.50011556 8.56302842,2.5441346 8.485,2.6225 L5.01291667,6.09333333 L1.54375,2.6225 C1.46584837,2.54410455 1.35989427,2.5000207 1.249375,2.5000207 C1.13885573,2.5000207 1.03290163,2.54410455 0.955,2.6225 C0.793023725,2.78535675 0.792651738,3.04835236 0.95416667,3.21166667 L4.70125,6.96041667 L4.71791667,6.9775 L4.7175,6.9775 Z" id="路径" fill="#D4D4D4"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
